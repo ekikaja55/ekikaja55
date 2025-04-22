@@ -23,12 +23,19 @@ Open to collaboration on:
 - Student communities & learning platforms
 
 ### 📫 Reach Me
-You can find me on:
 - GitHub: [@ekikaja55](https://github.com/ekikaja55)
-- Email: [your-email@example.com] *(ganti ini sesuai email kamu ya)*
+- Instagram: [@ekikaja.official](https://instagram.com/filenya_ekik.zip)
+- Email: [rizkiarkant55@gmail.com] 
 
 ### ⚡ Fun Fact
 I code like I play chess—strategic, adaptive, and with the endgame always in mind. ♟️
+
+---
+
+### 📊 GitHub Stats
+
+![Ekikaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekikaja55&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekikaja55&layout=compact&theme=tokyonight)
 
 ---
 
